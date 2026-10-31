@@ -1,8 +1,8 @@
 class Frun < Formula
   desc "Fast terminal UI for flutter run"
   homepage "https://github.com/okasutarto/flutter-run-tui"
-  url "https://github.com/okasutarto/flutter-run-tui/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "31e87c0522a638e328a036ef502c6ea0c786f167bc6544f5fcaf372047d29cf6"
+  url "https://github.com/okasutarto/flutter-run-tui/archive/refs/tags/v0.2.0.tar.gz"
+  sha256 "d1357e3559753592166537fd39562665dbea92272f6210cebe8c79e1a7c40734"
   license "MIT"
 
   depends_on "rust" => :build
